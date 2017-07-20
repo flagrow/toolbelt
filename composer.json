@@ -1,0 +1,25 @@
+{
+    "name": "flagrow/toolbelt",
+    "description": "Re-usable components for your Flarum extensions",
+    "keywords": [
+        "flarum",
+        "flagrow",
+        "components"
+    ],
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Daniël Klabbers",
+            "email": "daniel@klabbers.email",
+            "homepage": "http://luceos.com"
+        }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Flagrow\\Toolbelt\\": "src/"
+        }
+    }
+}
