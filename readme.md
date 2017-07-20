@@ -7,7 +7,7 @@ __This is not an extension!__
 Toolbelt is a package meant for extension developers. It offers re-usable components and helper classes for both the
 back- and frontend of Flarum extensions.
 
-### Use
+### use
 
 Add to your extension composer.json:
 
@@ -43,4 +43,4 @@ You might have other arguments in that function, just add the Application in add
 - [issues](https://github.com/flagrow/toolbelt/issues)
 
 
-An extension by [Flagrow](https://flagrow.io), a project of [Gravure](https://gravure.io).
+A package by [Flagrow](https://flagrow.io), a project of [Gravure](https://gravure.io).
